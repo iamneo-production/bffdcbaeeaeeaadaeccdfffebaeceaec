@@ -3,11 +3,12 @@
 <head>
 <title> sample output:
 <b>CPU</b> </title></head>
+ <lb>
 <p> <b>CPU</b> stands for central processing </p>
 <p>It is the portion of a<u> computer </u> 
 <p>out the instruction of a <u>computer </u>
 <p>it carries out each instruction of the the program in sequence,</p>
-<p>to proform the basic arithmeticsl,logical ,and input/outputoperation of the system</p>
+<p>to proform the basic arithmeticsl,logical ,and input/outputoperation of the system</p></lb>
 </html>
 
 
